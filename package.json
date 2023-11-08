@@ -1,5 +1,5 @@
 {
-  "name": "KilluaSquiresz",
+  "name": "MnnV1",
   "version": "1.0.0",
   "description": "Simple Bot Whatsapp Created By MannHost",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "start": "node index.js"
   },
   "keywords": [
-    "KilluaSquiresz"
+    "MnnV1"
   ],
   "author": "MannHost",
   "license": "MIT",
